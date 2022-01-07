@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Suryakant248
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning computer science and engineering
+- 🌱 Pursuing BE in computer science and engineering
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me suryakantingle04@gmail.com
 
